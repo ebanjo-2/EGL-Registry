@@ -1,0 +1,12 @@
+#exclude everything
+*.*
+
+# except these file types
+!.gitignore
+!CMakeLists.txt
+!*.cpp
+!*.h
+!*.lua
+!*.glsl
+!*.und
+!README.md
